@@ -2,7 +2,7 @@
 
 ### Mi Tayef
 #### Android Mobile App Developer
-Hello, I am Mazharul Islam Tayef. I am a professional Android Mobile Apps Developer. I trained at bongo academy. I can develop and customize all types of mobile apps for Android operating system. I have 2 years of experience in Android mobile apps development. If you build your apps from me than your apps will be fast, light weight, unique looking, ASO and user friendly.
+Hello, I am Mazharul Islam Tayef. I am a professional <b>Android Mobile Apps Developer.</b> I trained at bongo academy. I can develop and customize all types of mobile apps for Android operating system. I have 2 years of experience in Android mobile apps development. If you build your apps from me than your apps will be fast, light weight, unique looking, ASO and user friendly.
 <br><br>
 
 <b>Why You Choose Me?</b><br>
@@ -12,12 +12,12 @@ Hello, I am Mazharul Islam Tayef. I am a professional Android Mobile Apps Develo
 <br><br>
 ✅ <b> SKILLS : </b> HTML - CSS - XML - JAVA - PHP - API - DATABASE - ANDROID STUDIO - VERSION CONTROL - UI/UX / FIGMA - PHOTOSHOP
 <br><br><br>
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about App Development 
-- 📫 How to reach me: Loading... 
-- ⚡ Fun fact: Nothing 
+- 🔭 I’m currently working on <b>Fiverr<b>
+- 🌱 I’m currently learning <b>JavaScript<b>
+- 👯 I’m looking to collaborate on <b>GitHub<b>
+- 💬 Ask me about <b>App Development<b> 
+- 📫 How to reach me: <b>Loading...<b> 
+- ⚡ Fun fact: <b>Nothing<b> 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MiTayef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mitayef//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/MiTayef.09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mitayef//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/TayefMazumderBD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://waneex.com/)  
