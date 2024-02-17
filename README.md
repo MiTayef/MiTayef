@@ -12,7 +12,7 @@ Hello, I am Mazharul Islam Tayef. I am a professional <b>Android Mobile App Deve
 <br><br>
 ✅ <b> SKILLS : </b> HTML - CSS - XML - JAVA - PHP - API - DATABASE - ANDROID STUDIO - VERSION CONTROL - UI/UX / FIGMA - PHOTOSHOP
 <br><br><br>
-- 🔭 I’m currently working on <b>Fiverr<b>
+- 🔭 I’m currently working on <b>Fiverr</b>
 - 🌱 I’m currently learning <b>JavaScript</b>
 - 👯 I’m looking to collaborate on <b>GitHub</b>
 - 💬 Ask me about <b>App Development</b> 
