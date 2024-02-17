@@ -2,7 +2,7 @@
 
 ### Mi Tayef
 #### Android Mobile App Developer
-Hello, I am Mazharul Islam Tayef. I am a professional <b>Android Mobile Apps Developer.</b> I trained at bongo academy. I can develop and customize all types of mobile apps for Android operating system. I have 2 years of experience in Android mobile apps development. If you build your apps from me than your apps will be fast, light weight, unique looking, ASO and user friendly.
+Hello, I am Mazharul Islam Tayef. I am a professional <b>Android Mobile App Developer.</b> I trained at bongo academy. I can develop and customize all types of mobile apps for Android operating system. I have 2 years of experience in Android mobile apps development. If you build your apps from me than your apps will be fast, light weight, unique looking, ASO and user friendly.
 <br><br>
 
 <b>Why You Choose Me?</b><br>
@@ -13,10 +13,10 @@ Hello, I am Mazharul Islam Tayef. I am a professional <b>Android Mobile Apps Dev
 ✅ <b> SKILLS : </b> HTML - CSS - XML - JAVA - PHP - API - DATABASE - ANDROID STUDIO - VERSION CONTROL - UI/UX / FIGMA - PHOTOSHOP
 <br><br><br>
 - 🔭 I’m currently working on <b>Fiverr<b>
-- 🌱 I’m currently learning <b>JavaScript<b>
-- 👯 I’m looking to collaborate on <b>GitHub<b>
-- 💬 Ask me about <b>App Development<b> 
-- 📫 How to reach me: <b>Loading...<b> 
+- 🌱 I’m currently learning <b>JavaScript</b>
+- 👯 I’m looking to collaborate on <b>GitHub</b>
+- 💬 Ask me about <b>App Development</b> 
+- 📫 How to reach me: <b>Loading...</b> 
 - ⚡ Fun fact: <b>Nothing<b> 
 
 
