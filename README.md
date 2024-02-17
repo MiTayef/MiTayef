@@ -1,6 +1,6 @@
 ![Android Mobile App Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/428612027_721728656756887_8533801270522012434_n.jpg?stp=dst-jpg_p180x540&_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGxOI1ZqgEQTAj-y4002z347VnhFnGyVxHtWeEWcbJXEQyN5Iz8WcYpX7YAAAt9LHIIAG6ISWdQuo2u63wwWuO9&_nc_ohc=cH4sNYK0-foAX8pTyWp&_nc_ht=scontent.fdac99-1.fna&oh=00_AfADmBABIFRC_Z4X06eOKE7byJJ3HxvsrEzvefalc20Jlg&oe=65D57959)
 
-### Hi there 👋, Mi Tayef
+## Mi Tayef
 #### Android Mobile App Developer
 
 
