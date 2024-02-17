@@ -6,8 +6,8 @@ Hello, I am Mazharul Islam Tayef. I am a professional Android Mobile Apps Develo
 <br><br>
 
 <b>Why You Choose Me?</b>
-✅ Many clients are happy after work with me.
-✅ I will revise until your satisfaction.
+✅ Many clients are happy after work with me.<br>
+✅ I will revise until your satisfaction.<br>
 ✅ Customer satisfaction is my first priority.
 
 Skills: HTML - CSS - XML - JAVA - PHP - API - DATABASE - ANDROID STUDIO - VERSION CONTROL - UI/UX / FIGMA - PHOTOSHOP
