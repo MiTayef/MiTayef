@@ -5,7 +5,7 @@
 Hello, I am Mazharul Islam Tayef. I am a professional Android Mobile Apps Developer. I trained at bongo academy. I can develop and customize all types of mobile apps for Android operating system. I have 2 years of experience in Android mobile apps development. If you build your apps from me than your apps will be fast, light weight, unique looking, ASO and user friendly.
 <br><br>
 
-<b>Why You Choose Me?</b>
+<b>Why You Choose Me?</b><br>
 ✅ Many clients are happy after work with me.<br>
 ✅ I will revise until your satisfaction.<br>
 ✅ Customer satisfaction is my first priority.
